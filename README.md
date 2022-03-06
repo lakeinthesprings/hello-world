@@ -1,2 +1,3 @@
 # hello-world
 this is the lab for homework 4
+My name is matt and I am doing homework 4. Sure hope this isn't too **dificult**...
